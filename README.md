@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I'm currently practicing the React development framework a lot...
+
 <!--
 **KalmonJ/KalmonJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
